@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben ApoG | Eroğlu Studios Kurucusu
+# 👋 Merhaba, Ben Eroğlu | Eroğlu Studios Kurucusu
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-High--Speed%20Web-E50914?style=for-the-badge" alt="Focus">
@@ -53,7 +53,7 @@ Eroğlu Studios çatısı altında, işletmeleri dijital dünyada sadece "var et
 ### 📊 Görünmez Çalışkanlık
 *Kodlarımın çoğu ticari gizlilik gereği **Private** depolarda saklıdır. Ancak aşağıdaki takvim, her gün Eroğlu Studios vizyonu için attığım adımların kanıtıdır.*
 
-![ApoG GitHub Stats](https://github-readme-stats.vercel.app/api?username=[er0glu]&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E50914&text_color=ffffff)
+![ApoG GitHub Stats](https://github-readme-stats.vercel.app/api?username=er0glu&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E50914&text_color=ffffff)
 
 ---
 
