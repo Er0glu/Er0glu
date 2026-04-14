@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Dijital Deneyimi Kuantum Hızına Taşıyorum
-Eroğlu Studios çatısı altında, işletmeleri dijital dünyada sadece "var etmiyorum", onları en hızlı ve en güvenli kalelere dönüştürüyorum. Benim için bir web sitesi sadece kod değil; **0.2 saniyede açılan bir prestij göstergesidir.**
+Eroğlu Studios çatısı altında, işletmeleri dijital dünyada sadece "var etmiyorum", onları en hızlı ve en güvenli kalelere dönüştürüyorum. Benim için bir web sitesi sadece kod değil; **0.2 saniyede açılan müşterileri size çeken prestij göstergesi, standarttır.**
 
 - 🛠️ **Ne Yapıyorum?** Yüksek performanslı PHP/JS tabanlı sistemler, Cloudflare ile zırhlanmış güvenlik katmanları ve premium arayüzler.
 - 🎯 **Hedefim:** "Ulaşılabilir Premium" konseptini her piksele işlemek.
@@ -44,7 +44,6 @@ Eroğlu Studios çatısı altında, işletmeleri dijital dünyada sadece "var et
 
 ### 📂 Seçkin Projeler (Eroğlu Studios Referansları)
 
-* **Shot Bar:** Gece hayatının dijital kalesi.
 * **Ümit Uzun Oto Galeri:** Otomotiv sektöründe güven ve hızın birleşimi.
 * **LUXE. Boutique:** Sessiz lüksün e-ticaret hali.
 * **Eroğlu Studios:** Ana satış sitemizde mimari, çözüm ortaklığı ve hızın buluşması.
@@ -65,5 +64,5 @@ Eroğlu Studios çatısı altında, işletmeleri dijital dünyada sadece "var et
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[er0glu]&label=PROFILE%20VIEWS&color=E50914&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Er0glu&label=PROFILE%20VIEWS&color=E50914&style=flat" alt="Views" />
 </p>
