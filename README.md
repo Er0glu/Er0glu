@@ -60,6 +60,7 @@ Eroğlu Studios çatısı altında, işletmeleri dijital dünyada sadece "var et
 ### 📫 Bana Ulaşın
 - **Web:** [eroglustudios.com](https://eroglustudios.com)
 - **Instagram:** [@eroglu.studios](https://instagram.com/eroglustudios)
+- **Mail:** __info@eroglustudios.com__
 - **Motto:** *"Designed with precision, coded for speed."*
 
 ---
