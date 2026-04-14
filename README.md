@@ -44,9 +44,9 @@ Eroğlu Studios çatısı altında, işletmeleri dijital dünyada sadece "var et
 
 ### 📂 Seçkin Projeler (Eroğlu Studios Referansları)
 
-* **Ümit Uzun Oto Galeri:** Otomotiv sektöründe güven ve hızın birleşimi.
-* **LUXE. Boutique:** Sessiz lüksün e-ticaret hali.
-* **Eroğlu Studios:** Ana satış sitemizde mimari, çözüm ortaklığı ve hızın buluşması.
+* **erogludemo.com/umtuznoto:** Otomotiv sektöründe güven ve hızın birleşimi.
+* **erogludemo.com/erlbtkfldr:** Sessiz lüksün e-ticaret hali.
+* **Eroglustudios.com:** Ana satış sitemiz.
 
 ---
 
